@@ -4,6 +4,7 @@
 
 
 ---Hosting Options---
+![image](https://github.com/Dre00dev/twitter-bot/assets/109707956/6b2d7a26-ba3f-4b11-870a-cc141985af89)
 
  - Replit free & complex and requires you to ping or request the web server within an hour or it will sleep. 
  - Heroku no longer free
